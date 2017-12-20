@@ -1,0 +1,21 @@
+2017-12-20 22:42:14 [main] DEBUG  Client.MultiThreadChatClient - Initializing client socket and input and output streams.
+2017-12-20 22:49:57 [main] DEBUG  MultiThreadServer - Start server thread.
+2017-12-20 22:49:57 [main] DEBUG  MultiThreadServer - Client 1connected to server.
+2017-12-20 22:49:59 [main] DEBUG  MultiThreadServer - Start server thread.
+2017-12-20 22:49:59 [main] DEBUG  MultiThreadServer - Client 2connected to server.
+2017-12-20 22:52:25 [main] DEBUG  Client.MultiThreadChatClient - Initializing client socket and input and output streams.
+2017-12-20 22:52:25 [main] DEBUG  Client.MultiThreadChatClient - Start client thread.
+2017-12-20 22:52:23 [main] DEBUG  Client.MultiThreadChatClient - Initializing client socket and input and output streams.
+2017-12-20 22:52:23 [main] DEBUG  Client.MultiThreadChatClient - Start client thread.
+2017-12-20 22:52:20 [main] DEBUG  Client.MultiThreadChatClient - Initializing client socket and input and output streams.
+2017-12-20 22:52:20 [main] DEBUG  Client.MultiThreadChatClient - Start client thread.
+2017-12-20 22:52:20 [main] DEBUG  MultiThreadServer - Start server thread.
+2017-12-20 22:52:20 [main] DEBUG  MultiThreadServer - Client 1 connected to server.
+2017-12-20 22:52:23 [main] DEBUG  MultiThreadServer - Start server thread.
+2017-12-20 22:52:23 [main] DEBUG  MultiThreadServer - Client 2 connected to server.
+2017-12-20 22:52:25 [main] DEBUG  MultiThreadServer - Start server thread.
+2017-12-20 22:52:25 [main] DEBUG  MultiThreadServer - Client 3 connected to server.
+2017-12-20 22:52:29 [Thread-3] DEBUG  MultiThreadServer - Client N3 use list command.
+2017-12-20 22:52:39 [Thread-3] DEBUG  MultiThreadServer - Send message to Client N2 : Hello murshmellow 
+2017-12-20 22:52:46 [Thread-2] DEBUG  MultiThreadServer - Send message to Client N3 : hi 
+2017-12-20 22:53:02 [Thread-1] DEBUG  MultiThreadServer - Send message to Client N3 : I know u are here 
